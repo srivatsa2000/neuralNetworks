@@ -1,4 +1,4 @@
-# neuralNetworks
+# Neural Networks
 Very basic Works on neural Networks
 
 
